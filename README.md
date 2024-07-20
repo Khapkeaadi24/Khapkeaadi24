@@ -31,4 +31,5 @@ Interested in LLMs, Generative AI and NLP.
 -Masters in Data Science - 3RI Technology
 
 
+
 🔗 Let's ideate, innovate, and build cool expericnes with AI and harness the power of data. 
