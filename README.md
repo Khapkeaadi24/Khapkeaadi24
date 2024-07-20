@@ -1,2 +1,1 @@
-![Aditya's Github Banner]("C:\Users\Aditya\OneDrive\Desktop\concept-person-suffering-from-cybersickness-technology-addiction.jpg")
-
+![concept-person-suffering-from-cy](https://github.com/user-attachments/assets/9cb94d4a-aa3a-4b6c-95f9-f9bffb18d4c1)
