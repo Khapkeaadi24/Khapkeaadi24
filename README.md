@@ -17,6 +17,7 @@ Interested in LLMs, Generative AI and NLP.
 ### Professional Highlights 🌟
 - **Data Analyst** - Liftech Systems, India (2023)
 - **Data Analyst Intern** - Bharat Intern (2024)
+- **Data Scientist** - Inorbvict Healthcare Pvt. Ltd. (2024-25)
 
 ### Tech Toolbox 🛠️
 - **Languages:** Python, SQL, HTML, CSS.
@@ -30,6 +31,9 @@ Interested in LLMs, Generative AI and NLP.
 -Python - Disha Academy
 -Masters in Data Science - 3RI Technology
 
+### Publications 
+-Bringing Back Old Films And Photos Back To Life(2025) 
+-Publisher - IJIRCCE
 
 
 🔗 Let's ideate, innovate, and build cool expericnes with AI and harness the power of data. 
