@@ -10,8 +10,8 @@
 
 
 ### About Me 🌐
-Transforming complex datasets into strategic insights. Dedicated to innovation and collaboration, I'm eager to harness the power of data.
-Interested in LLMs, Generative AI and NLP.
+Dedicated to innovation and collaboration, I'm eager to harness the power of data.
+Interested in LLMs, Generative AI and Agentic AI.
 
 
 ### Professional Highlights 🌟
